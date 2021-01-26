@@ -1,0 +1,99 @@
+.center {
+    margin: auto;
+}
+
+.bg-image {
+    background-image: url("/imagens/fundo-branco-azul.jpg");
+    padding-top:70px;
+    padding-bottom:70px;
+    background-position: 100% 0;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    min-height:100%;
+}
+
+.fonte-padrao {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+.btn-padrao {
+    font-size: 16px;
+    color: #ffffff;
+    padding: 14px 21px;
+    background-color: #6892bf;
+    border-radius: 6px;
+    border: 0px solid #000000;
+    box-shadow:
+        0px 1px 3px rgba(000,000,000,0.2),
+        inset 0px 0px 2px rgba(255,255,255,1);
+    text-shadow:
+        0px -1px 0px rgba(255,255,255,0.2),
+        0px 1px 0px rgba(255,255,255,0.4);
+}
+
+.btn-padrao:hover {
+    background-color: #a8c7e8;
+    border-color:#ffffff;
+    color: #ffffff;
+}
+
+.btn-cancelar {
+    background-color: #9e9e9e;
+}
+
+.btn-cancelar:hover {
+    background-color: #d4d4d4;
+    border-color:#ffffff;
+    color: #ffffff;
+}
+
+.btn-adicionar-cargo {
+    font-size: 12px;
+    margin-top: 26px;
+    margin-left: 10px;
+    color: #ffffff;
+    padding: 14px 21px;
+    background-color: #6892bf;
+    border-radius: 6px;
+    border: 0px solid #000000;
+    box-shadow:
+        0px 1px 3px rgba(000,000,000,0.2),
+        inset 0px 0px 2px rgba(255,255,255,1);
+    text-shadow:
+        0px -1px 0px rgba(255,255,255,0.2),
+        0px 1px 0px rgba(255,255,255,0.4);
+}   
+
+.btn-adicionar-cargo:hover {
+    background-color: #a8c7e8;
+    border-color:#ffffff;
+    color: #ffffff;
+}
+
+.table-config {
+    background-color:#6892bf;
+    color: #fff;
+}
+  
+.fa-pencil, .fa-times {
+    cursor: pointer;
+    color: #507296;
+}
+
+.swal-button--confirm {
+    background-color:#6892bf;
+    border-radius: 6px;
+    border: 0px solid #000000;
+    box-shadow:
+        0px 1px 3px rgba(000,000,000,0.2),
+        inset 0px 0px 2px rgba(255,255,255,1);
+    text-shadow:
+        0px -1px 0px rgba(255,255,255,0.2),
+        0px 1px 0px rgba(255,255,255,0.4);
+}
+
+.swal-button:not([disabled]):hover {
+    background-color: #a8c7e8;
+}
