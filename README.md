@@ -70,6 +70,8 @@ Pode-se também ter acesso a tais documentações através da pasta do projeto n
 </a>
 <a href="https://github.com/lucasdida" title="Lucas Dida Projects"></a>
 <br>
---- Contato ---
-E-mail: lucasdida@hotmail.com 
+<p align="center">
+    --- Contato ---
+    E-mail: lucasdida@hotmail.com 
+</p>
  
