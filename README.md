@@ -17,6 +17,11 @@ Pequeno sistema de cadastro de funcionários e cargos aonde é possível fazer a
 ### Modelo e Dicionário de Dados
 Abaixo consta imagens do modelo e do dicionário de dados utilizados no desenvolvimento da aplicação:
 
+<img src="/public/imagens/dm-dados/01.png">
+<img src="/public/imagens/dm-dados/02.png">
+<img src="/public/imagens/dm-dados/03.png">
+<img src="/public/imagens/dm-dados/04.png">
+<img src="/public/imagens/dm-dados/05.png">
 
 Pode-se também ter acesso a tais documentações através da pasta do projeto nomeado como: "Modelo e Dicionario de Dados.pdf".
 
