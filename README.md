@@ -1,15 +1,28 @@
-# CadFuncionarios
+<h1 align="center">
+     CadFuncionarios
+</h1>
+
+<p align="center">
+    <a href="#sobre">Sobre</a> - 
+    <a href="#modelo-e-dicionário-de-dados">Modelo e Dicionário de Dados</a>
+    <a href="#pré-requisitos">Pré-Requisitos</a>
+    <a href="#guia-para-execução">Guia para execução</a>
+    <a href="#tecnologias">Tecnologias</a>
+    <a href="#autor">Autor</a>
+</p>
+
+### Sobre
 Cadastro de funcionários, onde é possível cadastrar, editar, remover funcionários e cadastrar e remover cargos.
 
-# Modelo e Dicionário de dados
+### Modelo e Dicionário de Dados
 Modelo e Dicionário de dados se encontram em apenas um arquivo ".pdf" com o nome: "Modelo e Dicionario de Dados.pdf" na pasta database do projeto.
 
-# Pré-Requisitos
+### Pré-Requisitos
 - PHP + MySQL (Aconselho a baixar o XAMPP que ja vem com os dois inclusos);
 - Composer (https://getcomposer.org/download/);
 - Algum navegador Web (de preferência o Google Chrome).
 
-# Execução
+### Guia para Execução
 - Depois de baixar o PHP + MySQL (Aconselhavel baixar o Xampp que já baixa os dois juntos) e instalar, é aconselhavel adicionar o php como variavel de ambiente. Caso o uso seja no sistema operacional Windows basta ir na parte de propriedades em "Meu Computador", selecionar a opção variaveis de ambiente, na parte de variaveis de sistema selecionar o campo "path" e editar, colocar no final do conteudo o caminho da pasta php, no meu caso como utilizo o xampp basta adicinar: C:\xampp\php e confirmar a alteração.
 - Para a instalação do Composer caso utilize o Windows é aconselhavel baixar o .exe fo próprio site do composer:https://getcomposer.org/download/ e executa-lo, pois além de fazer a instalação do composer em si de uma forma fácil e rápida também já irá adicionar o composer como varável de ambiente.
 
@@ -27,7 +40,7 @@ Modelo e Dicionário de dados se encontram em apenas um arquivo ".pdf" com o nom
     
 - Depois de todas essas etapas com o banco de dados criado, tabelas criadas e o comando seed ja executado, utilizar o comando **php artisan serve** no prompt de comando. Irá fazer com que os arquivos sejam compilados e executados e você poderá acessá-los através do navegador com o endereço: http://127.0.0.1:8000/ .
 
-# Ferramentas utilizadas no desenvolvimento
+### Tecnologia
 - Sistema Operacional: Windows 10;
 - Linguagem: PHP com Framework: Laravel;
 - Visual Studio Code.
@@ -38,4 +51,7 @@ Modelo e Dicionário de dados se encontram em apenas um arquivo ".pdf" com o nom
 - MySQL
 - AJAX
 - SweetAlert
+
+### Autor
+Lucas Manoel Dida
  
