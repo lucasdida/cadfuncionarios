@@ -58,7 +58,9 @@ Pode-se também ter acesso a tais documentações através da pasta do projeto n
 - AJAX
 - SweetAlert
 
-### Autor
+<p align="center">
+    ### Autor
+</p>
 <p align="center">
     <a href="https://github.com/lucasdida">
         <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/52303950?s=460&u=18929e0813677708a8105a4b77209e4986ad8d0b&v=4" width="100px">
