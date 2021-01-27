@@ -74,6 +74,7 @@ Pode-se também ter acesso a tais documentações através da pasta do projeto n
 </p>
 <p align="center">
     --- Contato ---
+    <br>
     E-mail: lucasdida@hotmail.com 
 </p>
  
