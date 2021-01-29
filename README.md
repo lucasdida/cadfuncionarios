@@ -4,6 +4,7 @@
 
 <p align="center">
     <a href="#sobre">Sobre</a> - 
+    <a href="#preview">Preview</a> -
     <a href="#modelo-e-dicionário-de-dados">Modelo e Dicionário de Dados</a> - 
     <a href="#pré-requisitos">Pré-Requisitos</a> - 
     <a href="#guia-para-execução">Guia para execução</a> - 
@@ -13,6 +14,10 @@
 
 ### Sobre
 Pequeno sistema de cadastro de funcionários e cargos aonde é possível fazer a inclusão, alterção e remoção dos mesmos. 
+
+### Preview
+<img src="/public/imagens/screenshots/01.png" width="600">
+<img src="/public/imagens/screenshots/02.png" width="600">
 
 ### Modelo e Dicionário de Dados
 Abaixo consta imagens do modelo e do dicionário de dados utilizados no desenvolvimento da aplicação:
